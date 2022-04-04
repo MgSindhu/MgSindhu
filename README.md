@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, I'm Sindhu👋
 
- **My name is M.Geetha Sindhu, Iam an undergraduate student from shri vishnu Engineering College For Women.** 
+ **Iam an undergraduate student from shri vishnu Engineering College For Women.** 
  
 ****I am a Data Science Enthusiast, who has been trying to explore this domain for the past 1.5 years. I am having Internship experience of more than 2 months in the data science domain. Exposure in building data models, data Processing, data visualization and applying Machine Learning and Deep learning concepts using python scripting and NLP. Have in-depth mathematical knowledge about the machine learning algorithms and first principles of Computer Vision**** 
 
