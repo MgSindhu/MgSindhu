@@ -11,7 +11,3 @@
 - 📫 How to reach me: ... Linkedln
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MgSindhu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mg-sindhu)  
-
-<a href="https://github.com/MgSindhu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgSindhu&theme=light&hide_langs_below=1" />
-</a>
